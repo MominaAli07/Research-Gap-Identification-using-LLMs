@@ -93,4 +93,4 @@ compute_model_rankings.py → model_tournament_rankings_run1.csv, model_tourname
 
 tournament_analysis_and_plots.py → tournament plots in visualizations/
 
-**What it does: ** Conducts head-to-head GPT-4 matchups in two independent runs, then aggregates wins via Borda Count, Elo Ratings, and PageRank, producing rankings and visual comparisons.
+**What it does:** Conducts head-to-head GPT-4 matchups in two independent runs, then aggregates wins via Borda Count, Elo Ratings, and PageRank, producing rankings and visual comparisons.
